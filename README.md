@@ -111,3 +111,6 @@ zapier-weather-automation/
 
 ## 📝 Acknowledgments
 This README was written and refined with the help of Microsoft Copilot, which assisted in organizing the structure, improving clarity, and polishing the documentation.
+
+## 📄 License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
