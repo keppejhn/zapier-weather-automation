@@ -33,14 +33,10 @@ Working on this project helped me practice:
 4. **Email Delivery:** The formatted forecast is sent to my inbox.  
 
 ## 📂 Repository Contents
-- `README.md` – project overview  
-- (Optional) `workflow-diagram.png` – visual outline of the Zap  
-- (Optional) `prompt.txt` – the prompt used for the AI summary  
-- (Optional) `sample-output.txt` – example of the daily email  
+- `README.md` – project overview    
 
 ## 🌱 Next Steps
-I plan to expand this project by:
-- Adding error‑handling steps  
+I plan to expand this project by:  
 - Logging daily weather summaries into a Notion database  
 - Experimenting with additional API fields (humidity, wind, alerts)  
 
