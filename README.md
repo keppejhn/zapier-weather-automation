@@ -94,7 +94,7 @@ To show what the automation produces in Notion, here’s an actual screenshot of
 
 This example highlights the final output after the data is fetched, formatted, and input automatically each morning.
 
-## 🌤️ Notion Version of the Daily Weather Report
+## 🌤️ Slack Version of the Daily Weather Report
 In addition to the email and Notion versions, this automation also writes the daily weather into a Slack channel at 8 AM every morning.
 
 ## 📬 Example Daily Weather Report - Slack
